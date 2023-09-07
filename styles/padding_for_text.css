@@ -1,0 +1,29 @@
+ @font-face { 
+	  font-family: "Boink LET";  
+	  src: url(/fonts/2220_Boink.ttf); 
+ } 
+p {
+  text-indent: 35px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+a {
+	color: #FCC004; 
+    text-decoration: none; 
+}
+a:visited {
+	color: #FCC004; 
+}
+a:hover {
+	color: #E7BE0A;  
+    text-decoration: underline; 
+}
+h1 {
+	color: white;
+	font-family: Boink LET;
+}
+p {
+	color: white;
+	font-family: Boink LET;
+	font-size: 16pt;
+}
