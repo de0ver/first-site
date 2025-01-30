@@ -1,6 +1,6 @@
  @font-face { 
 	  font-family: "Boink LET";  
-	  src: url(/fonts/2220_Boink.ttf); 
+	  src: url('../fonts/2220_Boink.ttf'); 
  } 
 p {
   text-indent: 35px;
